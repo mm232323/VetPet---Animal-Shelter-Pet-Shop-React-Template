@@ -1,0 +1,23 @@
+[
+    {
+        "title":"Adoption",
+        "description":"We match pets with loving forever families through careful screening.",
+        "iconImg":"/Startup/helpIco1.png",
+        "bgImg":"/Startup/help1.png",
+        "bgColor":"#ffa35227"
+    },
+    {
+        "title":"Shelter",
+        "description":"We provide safe shelter, medical care, and love to abandoned pets.",
+        "iconImg":"/Startup/helpIco2.png",
+        "bgImg":"/Startup/help2.png",
+        "bgColor":"#ff525228"
+    },
+    {
+        "title":"Medicine",
+        "description":"Every animal receives vaccinations, spay/neuter surgery, and treatment.",
+        "iconImg":"/Startup/helpIco3.png",
+        "bgImg":"/Startup/help3.png",
+        "bgColor":"#6352ff2c"
+    }
+]

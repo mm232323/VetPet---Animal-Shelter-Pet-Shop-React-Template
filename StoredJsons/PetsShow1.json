@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Buddy",
+        "details":"Golden Retriever Mix • 2 years old",
+        "nickname":"“The Playful Companion”",
+        "bgImg":"/Startup/dog_startup1.png"
+    },
+    {
+        "name":"Luna",
+        "details":"Domestic Shorthair • 1.5 years old",
+        "nickname":"“The Gentle Soul”",
+        "bgImg":"/Startup/cat_startup.png"
+    },
+    {
+        "name":"Rocky",
+        "details":"Dog Breed: Terrier Mix • 3 years old",
+        "nickname":"“The Brave Little Survivor”",
+        "bgImg":"/Startup/dog_startup2.png"
+    },
+    {
+        "name":"Bella",
+        "details":"Mini Lop Rabbit • 8 months old",
+        "nickname":"“The Social Butterfly”",
+        "bgImg":"/Startup/rabbit_startup.png"
+    }
+]

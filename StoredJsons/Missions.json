@@ -1,0 +1,22 @@
+[
+    {
+        "text":"Rescue abandoned and abused animals",
+        "iconUrl":"/About/icon1.png",
+        "color":"#10456C"
+    },
+    {
+        "text":"Provide veterinary care and rehabilitation",
+        "iconUrl":"/About/icon2.png",
+        "color":"#0C6216"
+    },
+    {
+        "text":"Promote responsible pet ownership",
+        "iconUrl":"/About/icon3.png",
+        "color":"#772B0F"
+    },
+    {
+        "text":"Educate the community about animal welfare",
+        "iconUrl":"/About/icon4.png",
+        "color":"#725E0F"
+    }
+]

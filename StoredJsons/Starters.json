@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Giving homeless pets a second chance at love",
+        "description":"Short mission statement: \"We rescue, rehabilitate, and rehome abandoned animals in New York\"",
+        "imgUrl":"/Startup/starterImg1.png"
+    },
+    {
+        "name":"They Can't Wait for Tomorrow",
+        "description":"\"Every day, 15 pets arrive at our shelter needing safety, care, and love. Your support today changes their forever.\"",
+        "imgUrl":"/Startup/starterImg2.jpg"
+    },
+    {
+        "name":"Your Perfect Companion Is Waiting",
+        "description":"\"We’ve rescued them. We’ve healed them. Now, we need you to complete their story. Find the pet who’s meant for you.\"",
+        "imgUrl":"/Startup/starterImg3.jpg"
+    }
+]

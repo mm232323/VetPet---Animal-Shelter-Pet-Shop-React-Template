@@ -1,0 +1,40 @@
+[
+    {
+        "name": "1. Donation",
+        "details": {
+            "title": "“Your $30 feeds a shelter pet for a month”",
+            "type": "options",
+            "options": [
+                "One-time donation",
+                "Wish list: food, toys, blankets"
+            ]
+        },
+        "imgUrl": "/Support/supportImg1.png"
+    },
+    {
+        "name": "2. Volunteer",
+        "details": {
+            "title": "Apply in-person or email volunteer@[yoursite].org",
+            "type": "benefits",
+            "options": [
+                "Dog walking",
+                "Adoption event helpers",
+                "Shelter cleaning"
+            ]
+        },
+        "imgUrl": "/Support/supportImg2.png"
+    },
+    {
+        "name": "3. Foster",
+        "details": {
+            "title": "\"Temporarily house a pet in need!\"",
+            "type": "benefits",
+            "options": [
+                "We provide all supplies",
+                "Medical care covered",
+                "Flexible timelines"
+            ]
+        },
+        "imgUrl": "/Support/supportImg3.png"
+    }
+]

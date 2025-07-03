@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Literata", serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+html,
+body {
+  @apply text-[#311A04] bg-[#FFEAD8];
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+  scroll-behavior: smooth;
+}
+body {
+  position:relative;
+  z-index:-1000;
+}
+body:selection {
+  color:white;
+  background-color:#2A1458;
+}
+.font-lobster {
+  font-family: "Lobster", serif;
+}
