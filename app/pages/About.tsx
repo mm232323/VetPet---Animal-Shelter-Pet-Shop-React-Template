@@ -22,11 +22,11 @@ export default function About() {
       </h3>
       <div className="relative top-[70px] w-full h-[620px] overflow-hidden mb-[70px]">
         {/* <div className="w-full h-full backdrop-blur-lg bg-black/25 absolute -z-[39]" /> */}
-        <img src="/About/bg.jpg" className="absolute w-full h-auto z-[-40] min-w-[1440px]" />
-        <h1 className="text-white font-[600] mb-[30px] pl-[60px] relative top-[80px] text-[32px]">
+        <img src="/About/bg.jpg" className="absolute w-full h-full object-cover z-[-40]" />
+        <h1 className="text-white font-[600] mb-[30px] pl-[60px] relative top-[80px] text-[32px] max-[360px]:text-[30px] max-[360px]:text-center max-[360px]:pl-0">
           How It All Began
         </h1>
-        <p className="text-white text-justify font-[300] pl-[60px] relative top-[80px] text-[23px] w-[800px] tracking-wider opacity-85">
+        <p className="text-white text-justify font-[300] relative top-[80px] text-[23px] w-[800px] tracking-wider opacity-85 pl-[60px] max-[885px]:w-full max-[885px]:pl-[60px] max-[490px]:text-[20px] max-[490px]:text-center max-[490px]:px-[15px] pr-[15px]">
           Paws & Tails Rescue started with one woman's determination to make a
           difference. After witnessing abandoned animals struggling on the
           streets of California, our founder Mohammed Qurany converted her
@@ -39,7 +39,7 @@ export default function About() {
       </center>
       <div className="relative top-[40px] w-full h-[620px] overflow-hidden mb-[70px]" dir='rtl'>
         {/* <div className="w-full h-full backdrop-blur-lg bg-white/25 absolute -z-[39] hidden " /> */}
-        <img src="/About/bg2.jpg" alt="A collage of happy, adopted pets and their families" className="absolute w-full h-auto z-[-40] min-w-[1440px]" />
+        <img src="/About/bg2.jpg" alt="A collage of happy, adopted pets and their families" className="absolute w-full h-full object-cover z-[-40]" />
         <h1 className="text-[#1f1f1f] font-[600] mb-[30px] relative top-[80px] text-[32px] w-[810px] max-[885px]:w-full max-[885px]:left-[60px] max-[490px]:text-center max-[490px]:left-0" dir='ltr'>
           Why we are different?
         </h1>
@@ -58,7 +58,7 @@ export default function About() {
               key={Math.random() * idx}
               className="w-full h-[426px] rounded-[34px] bg-white border-1 border-[#311A04] shadow-[0_15px_21.5px_0_#0000001a] flex justify-center items-center flex-col gap-[30px] z-[-21] relative overflow-hidden"
             >
-              <img src="/About/petstexture.svg" alt="A subtle texture of pet paws and bones" width={700} height={500} className="w-full h-full absolute z-[-20] opacity-15 min-w-[1440px]" />
+              <img src="/About/petstexture.svg" alt="A subtle texture of pet paws and bones" width={700} height={500} className="w-full h-full absolute z-[-20] opacity-15 object-cover" />
               <img
                 src={mission.iconUrl}
                 alt={`${mission.text} icon`}

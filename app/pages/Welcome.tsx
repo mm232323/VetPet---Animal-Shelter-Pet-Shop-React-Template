@@ -47,7 +47,7 @@ export default function Welcome() {
                     alt={choosedStart.name}
                     width={2000}
                     height={2000}
-                    className="w-full h-auto min-h-full absolute z-[-1] min-w-[1440px]"
+                    className="w-full h-full object-cover absolute z-[-1] min-w-[1440px]"
                   />
                   <div className="relative top-[200px] w-[641px] pl-[50px] max-[640px]:flex max-[640px]:flex-col max-[640px]:items-center max-[640px]:pl-0 max-[640px]:top-[170px] max-[700px]:w-full">
                     <h1 className="text-[56px] font-bold text-[#2A1458] mb-[10px] max-[1135px]:text-[48px] max-[640px]:text-center max-[590px]:text-[40px] max-[450px]:px-[25px] max-[450px]:text-[36px]">
@@ -166,7 +166,7 @@ export default function Welcome() {
                 alt={`A lovely ${pet.nickname} named ${pet.name}`}
                 width={322}
                 height={470}
-                className="w-auto h-full absolute z-[-20] rounded-[7px] max-[1160px]:w-full max-[1160px]:h-auto max-[772px]:h-full max-[772px]:w-auto max-[772px]:min-w-[320px] max-[620px]:w-full max-[620px]:h-auto"
+                className="w-full h-full object-cover absolute z-[-20] rounded-[7px] max-[1160px]:w-full max-[1160px]:h-auto max-[772px]:h-full max-[772px]:w-auto max-[772px]:min-w-[320px] max-[620px]:w-full max-[620px]:h-auto"
               />
               <i>
                 <p className="text-orange-600 font-light relative top-[20px] text-[19px]">
